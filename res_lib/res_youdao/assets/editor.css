@@ -1,0 +1,35 @@
+/* 用于显示附件的圆角边框 */
+.rborder {
+	margin-top: 5px;
+	margin-bottom: 5px;
+    display: block;
+    width: 295px;
+    border: 1px solid #cccccc;
+    padding: 2px;
+    margin-top: 1px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+  max-width:100%;
+}
+.rborder:active {
+	background-color:#bfe4f2;
+	border: 2px solid #bfe4f2;
+}
+.rborder .arrow {
+    width: 30px;
+    height: 30px;
+}
+
+.rborder .attachicon {
+    vertical-align:middle;
+    width: 32px;
+    height: 32px;
+}
+
+.android-resource-img {
+		max-width:97%;
+}
+
+html, body { width: 100%;}
+
+ 
