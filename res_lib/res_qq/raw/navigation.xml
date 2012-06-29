@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigation>
+	<column name="资讯">
+		<item name="新闻 " icon="icon_news"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=190" session="true" />
+		<item name="体育 " icon="icon_sport"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=191" session="true" />
+		<item name="娱乐 " icon="icon_entertainment"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=192" session="true" />
+		<item name="财经 " icon="icon_finance"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=193" session="true" />
+		<item name="股票 " icon="icon_stock"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=194" session="true" />
+		<item name="科技 " icon="icon_tech"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=195" session="true" />
+		<item name="星座 " icon="icon_constellation"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=196" session="true" />
+		<item name="书城 " icon="icon_book"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=185" session="true" />
+	</column>
+	<column name="我的应用">
+		<item name="QQ空间 " icon="icon_qzone"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=186" session="true" />
+		<item name="QQ农场 " icon="icon_qqfarm"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=206" session="true" />
+		<item name="QQ邮箱 " icon="icon_qqmail"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=187" session="true" />
+		<item name="腾讯微博" icon="icon_qqblog"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=188" session="true" />
+		<item name="软件中心" icon="icon_qqsoftcenter"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=337" session="true" />
+		<item name="搜搜" icon="icon_soso"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=189" session="true"></item>
+		<item name="系统消息" icon="icon_messagebox"></item>
+	</column>
+	<column name="酷站导航">
+		<item name="手机腾讯网 " icon="icon_qqsite"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=183" session="true" />
+		<item name="新浪" url="http://3g.sina.com.cn/?vt=3&amp;pos=1&amp;wm=4010"
+			icon="icon_sina" />
+		<item name="搜狐" url="http://wap.sohu.com/?nid=1&amp;v=2" icon="icon_sohu" />
+		<item name="网易" url="http://3g.163.com/links/908" icon="icon_163" />
+		<item name="凤凰网"
+			url="http://i.ifeng.com/index_2?vt=2&amp;mid=4hi3v3&amp;ch=qq" icon="icon_phenix" />
+		<item name="泡泡"
+			url="http://3gc.pp.cn/index2.php?session=guest1277195987348&amp;uat=10039"
+			icon="icon_pp" />
+		<item name="淘宝"
+			url="http://m.taobao.com/?v=0&amp;sprefer=syjb01&amp;sid=b479b7c1f37be93b"
+			icon="icon_taobao" />
+	</column>
+	<column name="联系我们">
+		<item name="意见反馈 " icon="feedback"
+			url="http://android.3g.qq.com/p?i_url=http%3A%2F%2Fwap.3g.qq.com%2Fg%2Fs%3Faid%3Dwapsupport%26fid%3D460" session="true" />
+		<item name="官方论坛" url="http://lt.3g.qq.com/g/topic_list.jsp?forumId=2409"
+			icon="bbs" session="true"/>
+	</column>
+</navigation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appstore>
+	<column name="资讯">
+		<item name="新闻 " icon="icon_news"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=190" session="true" />
+		<item name="财经 " icon="icon_finance"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=193" session="true" />
+		<item name="体育 " icon="icon_sport"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=191" session="true" />
+		<item name="娱乐 " icon="icon_entertainment"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=192" session="true" />
+		<item name="超级QQ" icon="icon_superqq"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=545" session="true" />
+		<item name="股票 " icon="icon_stock"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=194" session="true" />
+		<item name="科技 " icon="icon_tech"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=195" session="true" />
+		<item name="星座 " icon="icon_constellation"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=196" session="true" />
+		<item name="书城 " icon="icon_book"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=185" session="true" />
+		<item name="QQ农场" icon="icon_qqfarm"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=206" session="true" />
+		<item name="记事本" icon="icon_record"
+			url="http://fwd.z.qq.com:8080/forward.jsp?bid=539" session="true" />
+
+		<item name="软件中心" icon="icon_qqsoftcenter"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=337" session="true" />
+		<item name="搜搜" icon="icon_soso"
+			url="http://fwd.3g.qq.com:8080/forward.jsp?bid=189" session="true"></item>
+		<item name="情侣空间" icon="icon_lovespace"
+			url="http://fwd.z.qq.com:8080/forward.jsp?bid=538"></item>
+	</column>
+</appstore>
